@@ -1,7 +1,7 @@
 # Bootstrap Theme Kit
 A starter project for making Bootstrap 5 themes with Sass
 
-*** This is simple starter project to help you get started quickly when making a custom Bootstrap theme.
+This is simple starter project to help you get started quickly when making a custom Bootstrap theme.
 
 ![Screenshot 1](screenshots/screenshot.png)
 
